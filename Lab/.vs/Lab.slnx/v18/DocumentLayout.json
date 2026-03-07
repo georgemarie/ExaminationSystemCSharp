@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI 9 Month\\Content\\C#\\Lec7\\Labs\\Assignment7\\ExaminationSystemCSharp\\Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8167B33E-D4A6-0432-CEC4-B3B1F80245EE}|Lab\\Lab.csproj|d:\\iti 9 month\\content\\c#\\lec7\\labs\\assignment7\\examinationsystemcsharp\\lab\\lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8167B33E-D4A6-0432-CEC4-B3B1F80245EE}|Lab\\Lab.csproj|solutionrelative:lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI 9 Month\\Content\\C#\\Lec7\\Labs\\Assignment7\\ExaminationSystemCSharp\\Lab\\Lab\\Program.cs",
+              "RelativeDocumentMoniker": "Lab\\Program.cs",
+              "ToolTip": "D:\\ITI 9 Month\\Content\\C#\\Lec7\\Labs\\Assignment7\\ExaminationSystemCSharp\\Lab\\Lab\\Program.cs",
+              "RelativeToolTip": "Lab\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDgAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T19:53:25.509Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
