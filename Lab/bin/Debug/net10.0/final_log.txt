@@ -46,3 +46,27 @@ Header: Q4
 Body: Arrays in C# are dynamically sized by default.
 Marks: 5
 -------------------------------
+--- Logged Question Details ---
+Type: TrueFalseQuestion
+Header: Q1
+Body: C# is an OOP language.
+Marks: 5
+-------------------------------
+--- Logged Question Details ---
+Type: ChooseOneQuestion
+Header: Q2
+Body: Which keyword is used for inheritance in C#?
+Marks: 10
+-------------------------------
+--- Logged Question Details ---
+Type: ChooseAllQuestion
+Header: Q3
+Body: Which of the following are value types in C#?
+Marks: 15
+-------------------------------
+--- Logged Question Details ---
+Type: TrueFalseQuestion
+Header: Q4
+Body: Arrays in C# are dynamically sized by default.
+Marks: 5
+-------------------------------
